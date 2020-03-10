@@ -1,2 +1,2 @@
 # MoonTrek
-Senior Design MoonTrek Front End
+Senior Design Project - MoonTrek
